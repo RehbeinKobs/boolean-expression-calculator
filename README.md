@@ -4,7 +4,7 @@
 The Boolean Expression Calculator is a simple command line tool for calculating boolean expressions.
 # Instalation
 ### Compiling
-To compile the program, use the following command:
+To compile the program, run the following command in the src directory:
 
 `gcc main.c str-functions.c operations.c -o app`
 ### Running
